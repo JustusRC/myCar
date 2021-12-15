@@ -1,5 +1,3 @@
-package myCar;
-
 public class Car {
 	
 			//Justus Contreras
@@ -44,5 +42,3 @@ public class Car {
 			return gas;
 		}
 	}
-
-
